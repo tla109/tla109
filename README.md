@@ -1,4 +1,7 @@
-## Hi there 👋
+## Education
+
+Bachelor of Science, Major in Statistics, Minor in Mathematics @ Simon Fraser University (Sep 2014 - Apr 2018)
+Relevant Coursework: Survey Sampling, Sampling and Experimental Design, Time Series Analysis, Markov Processes, Linear Optimization, Regression Analysis, Differential Equations
 
 <!--
 **tla109/tla109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

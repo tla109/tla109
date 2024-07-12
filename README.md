@@ -1,19 +1,17 @@
 ## Education
 
-Bachelor of Science, Major in Statistics, Minor in Mathematics @ Simon Fraser University (Sep 2014 - Apr 2018)
-Relevant Coursework: Survey Sampling, Sampling and Experimental Design, Time Series Analysis, Markov Processes, Linear Optimization, Regression Analysis, Differential Equations
+**Post-Baccalaureate Diploma in Computing Science @ Simon Fraser University (Jan 2023 - current)** 
 
-<!--
-**tla109/tla109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Relevant Coursework:** Computational Data Science, Statistical Learning and Prediction, Artificial Intelligence, Database Systems, Number Theory
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Bachelor of Science, Major in Statistics, Minor in Mathematics @ Simon Fraser University (Sep 2014 - Apr 2018)**
+
+**Relevant Coursework:** Survey Sampling, Experimental Design, Time Series Analysis, Markov Processes, Linear Optimization, Regression Analysis, Differential Equations
+
+## Skills
+
+**Languages**: Python, R, SAS, C++, MATLAB
+
+**Domains**: Statistical Modelling, Data mining, Feature Engineering, Machine Learning: Regression/ Clustering/ Classification, Time-Series Analysis

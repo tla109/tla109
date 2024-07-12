@@ -15,3 +15,7 @@
 **Languages**: Python, R, SAS, C++, MATLAB
 
 **Domains**: Statistical Modelling, Data mining, Feature Engineering, Machine Learning: Regression/ Clustering/ Classification, Time-Series Analysis
+
+## Certifications
+
+[**SAS:** Base-Programming Specialist](https://harlequin-carmine-96.tiiny.site) [verification number: LQT1DZWCJEVQ1NWJ](https://cp.certmetrics.com/SAS/en/public/verify/credential)

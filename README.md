@@ -18,4 +18,4 @@
 
 ## Certifications
 
-[**SAS:** Base-Programming Specialist](https://harlequin-carmine-96.tiiny.site) [verification number: LQT1DZWCJEVQ1NWJ](https://cp.certmetrics.com/SAS/en/public/verify/credential)
+[**SAS:** Base-Programming Specialist](https://harlequin-carmine-96.tiiny.site) ([verification number: LQT1DZWCJEVQ1NWJ](https://cp.certmetrics.com/SAS/en/public/verify/credential))
